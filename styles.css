@@ -1,0 +1,14 @@
+h1 {
+    font-size: 35px;
+    background-color: red;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-size: 25px;
+    background-color: rgb(238, 255, 0);
+    font-family: serif;
+    font-weight: 300;
+}
